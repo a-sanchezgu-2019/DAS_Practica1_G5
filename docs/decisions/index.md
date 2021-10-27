@@ -4,7 +4,11 @@ This log lists the architectural decisions for [project name].
 
 <!-- adrlog -- Regenerate the content by using "adr-log -i". You can install it via "npm install -g adr-log" -->
 
-- [ADR-0000](0000-use-markdown-architectural-decision-records.md) - Use Markdown Architectural Decision Records
+* [ADR-001](001-Arquitectura-de-Microservicios.md) - [Arquitectura de Microservicios]
+* [ADR-002](002-Controlador-MongoDB.md) - [Controlador MongoDB]
+* [ADR-003](003-Bus-Eventos-Logicos.md) - [Bus de Eventos Lógicos]
+* [ADR-004](004-Comunicaciones.md) - [Comunicaciones]
+* [ADR-005](005-Comunicación-Clientes.md) - [Comunicación con los cliente]
 
 <!-- adrlogstop -->
 
