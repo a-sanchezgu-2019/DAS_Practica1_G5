@@ -12,6 +12,9 @@ This log lists the architectural decisions for [project name].
 * [ADR-006](006-Middleware-Microservicios.md) - Middleware Microservicios
 * [ADR-007](007-Microservicios-Logica-Negocio.md) - Microservicios Lógica Negocio
 * [ADR-008](008-Middleware-Mensajeria-Clientes.md) - Middleware Mensajeria
+* [ADR-009](009-Accesibilidad-Portables.md) - Accesibilidad Dispositivos Portables
+* [ADR-010](010-API-REST.md) - API REST
+* [ADR-011](011.md) - [short title of solved problem and solution]
 
 <!-- adrlogstop -->
 
