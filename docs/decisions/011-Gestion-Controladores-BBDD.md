@@ -17,7 +17,7 @@ Nuestro sistema cuenta con varios controladores de distintas bases de datos y un
 
 ## Decision Outcome
 
-Chosen option: "Agruparlas en su propio paquete", porque unifica el acceso a los datos
+Chosen option: "Utilizar el patrón Facade", porque unifica el acceso a los datos
 
 ### Positive Consequences
 
